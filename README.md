@@ -1,4 +1,4 @@
-# Can you hear the music?
+# Introduction
 Do you remember the opening shot of the movie "Oppenheimer" (2023)? In case you don't, it is a static shot of water ripples on a puddle. There is a lot of speculation about the interpretation of this shot. Some say that it mimics the ripple caused by a bomb drop, while others say it is a reference to the double slit experiment. I myself am not sure about Nolan's interpretation of that shot. I just thought it would be a cool project to replicate. Apparently, I am not the only one who thought that. [Here](https://web.archive.org/web/20160418004149/http://freespace.virgin.net/hugo.elias/graphics/x_water.htm) is an archived webpage of the algorithm that helps simulate this idea, and [here](https://www.youtube.com/watch?v=BZUdGqeOD0w&t=710s&ab_channel=TheCodingTrain) is a code-along video that I found on YouTube.
 
 # Walkthrough
